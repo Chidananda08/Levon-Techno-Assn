@@ -1,0 +1,8 @@
+/* src/components/widgets/BarChartWidget.css */
+.bar-chart-widget {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
